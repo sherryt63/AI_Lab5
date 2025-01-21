@@ -1,6 +1,6 @@
 # AI_Lab5
 
-你好！这是《当代人工智能》课程实验五的作业仓库😊
+你好！这是《当代人工智能》课程实验五的作业仓库😊（请参考master分支噢！！）
 
 ## 代码环境
 
@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ```python
 |-- lab5.py                    #code for this project
-|-- 实验五数据.zip # a file folder for the data this lab needs(.zip version)
+|-- 实验五数据     # a file folder for the data this lab needs(.zip version)
     |-- data/     # including text data and image data for this project
     |-- test_without_label.txt # the file we need to test by model 
     |-- train.txt              # the file used to train our model
@@ -28,8 +28,6 @@ pip install -r requirements.txt
 ```python
 cd AI_lab5
 ```
-
-2. 解压“实验五数据.zip”文件为文件夹
 
 2. 确保自己的python版本在3.10.6左右，并下载所需模块：
 ```python
